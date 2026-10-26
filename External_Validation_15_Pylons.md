@@ -12,7 +12,7 @@ Probabilities are network outputs. Human votes are counts of high-quality rating
 | --- | --- | --- | --- | ---: | ---: | --- | --- | ---: |
 | 1 | High | Cable-stayed | 207_1 | 92.45 | 7.55 | High | High | 47 |
 | 2 | High | Cable-stayed | 161_1 | 87.64 | 12.36 | High | High | 45 |
-| 3 | High | Suspension | 125_1 | 73.90 | 26.10 | High | High | 41 |
+| 3 | High | Suspension | 198_1 | 73.90 | 26.10 | High | High | 44 |
 | 4 | High | Suspension | 218_2 | 54.36 | 45.64 | High | High | 43 |
 | 5 | High | Cable-stayed | 201_1 | 97.16 | 2.84 | High | High | 45 |
 | 6 | Intermediate | Cable-stayed | 162_1 | 84.22 | 15.78 | High | Low | 25 |
